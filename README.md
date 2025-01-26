@@ -464,6 +464,7 @@ Websites with lists of relays and their performance/health:
 - [Obsidian Nostr Writer](https://github.com/jamesmagoo/nostr-writer#readme) - A free Obsidian plugin that allows writers to seamlessly publish to Nostr
 - [osint-user-discovery](https://github.com/Inforensics/osint-user-discovery)![stars](https://img.shields.io/github/stars/Inforensics/osint-user-discovery.svg?style=social) - OSINT Discovery is a set of Python scripts designed to search for users or URLs across different social media platforms(nostr, mastodon) and caching services.
 - [powrelay.xyz](https://powrelay.xyz) - A proof of work based nostr explorer.
+- [Relay.Tools](https://relay.tools) - Access control and deployment software for relays.
 - [Replies](https://replies.nostrapps.org) - Nostr micro-app for viewing replies and reactions to events
 - [rss.nostr.band](https://rss.nostr.band) - Create custom RSS feeds with posts matching your keywords and consume using your favorite RSS reader.
 - [sb.nostr.band](https://sb.nostr.band) - Search bots that you can create and follow to receive new posts matching a keyword right into your feed.
